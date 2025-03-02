@@ -21,7 +21,7 @@ I'm sahan dileepa, BSc (Hons) in Artificial Intelligence undergraduate at the Un
 <div align="center">
 <img width=450 src="https://github-readme-streak-stats.herokuapp.com?user=psda2&theme=light&stroke=210279&ring=210279&fire=210279&currStreakLabel=210279" alt="GitHub Streak Stats"/>
   <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psda2&layout=compact&title_color=210279" height=100>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psda2&layout=compact&title_color=210279&" height=150>
 <img src="https://github-readme-stats.vercel.app/api?username=psda2&rank_icon=github&title_color=210279" height=150>
 </div>
 
