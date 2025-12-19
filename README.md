@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Dynamic Header -->
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Sahan%20Dileepa&fontSize=62&animation=fadeIn&fontAlignY=40&desc=AI%20Undergraduate%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=60)
+
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=Sahan%20Dileepa&fontSize=56&fontColor=000000&desc=BSc%20(Hons)%20in%20Artificial%20Intelligence%20%7C%20Web%20Developer&descAlignY=70)
 
 <br/>
 
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=psda2&style=flat-square&label=Profile%20Views&color=6a0dad)
-![Public Repos](https://img.shields.io/github/public-repos/psda2?style=flat-square&label=Repositories&color=6a0dad)
-![Followers](https://img.shields.io/github/followers/psda2?style=flat-square&label=Followers&color=6a0dad)
-![Stars](https://img.shields.io/github/stars/psda2?style=flat-square&label=Stars&color=6a0dad)
+![Profile Views](https://komarev.com/ghpvc/?username=psda2&style=flat&label=Profile%20Views&color=555555)
+![Followers](https://img.shields.io/github/followers/psda2?style=flat&label=Followers&color=555555)
+![Repositories](https://img.shields.io/github/public-repos/psda2?style=flat&label=Repositories&color=555555)
 
-<br/>
-<br/>
 
 ### 👋 About Me
 
