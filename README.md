@@ -83,11 +83,7 @@ Beyond development, I actively enjoy **mentoring beginners** and sharing knowled
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=psda2&theme=radical&hide_border=true"/>
 
 <br/>
-<br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psda2&theme=radical"/>
-
-<br/>
 
 ---
 
