@@ -17,7 +17,7 @@ I am a BSc (Hons) in Artificial Intelligence undergraduate at the University of 
 <br/>
 <br/>
 
-<h3>🦉 Owl Post <img src="https://media.giphy.com/media/12xM5wXFv0vC9a/giphy.gif" width="30" /></h3>
+<h3>🦉 Owl Post </h3>
 <p>
 <a href="https://www.linkedin.com/in/sahan-dileepa-b6aaa3217/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
