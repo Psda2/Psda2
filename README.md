@@ -37,9 +37,7 @@
 
 ### 📈 Contribution Activity
 
-  <a href="https://github.com/psda2/psda2/actions/workflows/snake.yml">
-    <img src="https://github.com/psda2/psda2/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  </a>
+  <img src="https://ghchart.rshah.org/3572A5/psda2" alt="psda2's Github chart" />
 
 </div>
 
@@ -49,7 +47,7 @@
 
 ### 📊 Detailed Metrics
 
-  <img src="https://github.com/psda2/psda2/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psda2&theme=transparent&hide_border=true&ring=3572A5&fire=3572A5&currStreakNum=3572A5" alt="Streak Stats" />
 
 </div>
 
